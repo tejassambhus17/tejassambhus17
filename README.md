@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science Engineering graduate with hands-on experience building a manufacturing ERP using<br>Python, Django REST Framework, PostgreSQL and Docker. Developed REST APIs, relational<br>workflows, role-based access controls and audit logging for core business operations.
+Computer Science Engineering graduate with hands-on experience building a manufacturing ERP using Python, Django REST Framework, PostgreSQL and Docker. Developed REST APIs, relational workflows, role-based access controls and audit logging for core business operations.
 
 
 ## 🌐 Socials:
@@ -15,7 +15,5 @@ Computer Science Engineering graduate with hands-on experience building a manufa
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=tejassambhus17&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
